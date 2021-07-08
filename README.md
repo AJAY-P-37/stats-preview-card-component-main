@@ -8,7 +8,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Built with](#built-with
+  - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
